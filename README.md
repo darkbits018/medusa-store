@@ -26,10 +26,14 @@ _WORK IN PROGRESS_
 ### Preview
 
 **Hero**
-![Hero](Screenshot from 2022-10-23 13-46-51.png)
-![FeaturedProducts](Screenshot from 2022-10-23 13-47-04.png)
-![Footer](Screenshot from 2022-10-23 13-47-15.png)
-![Registration](Screenshot from 2022-10-23 13-47-39.png)
+![Hero](Screenshot from 2022-10-23 13-46-51.png)   
+
+![FeaturedProducts](Screenshot from 2022-10-23 13-47-04.png)   
+
+![Footer](Screenshot from 2022-10-23 13-47-15.png)  
+
+![Registration](Screenshot from 2022-10-23 13-47-39.png)     
+
 
 
 
