@@ -5,7 +5,7 @@
 
 ### Cover Image
 
-![CoverImage](galaxy-cover-template#2.jpg)
+![CoverImage]({{site.baseurl}}//galaxy-cover-template#2.jpg)
 
 ## About
 
@@ -24,15 +24,8 @@ includes A hero section, featured products and footer.
 _WORK IN PROGRESS_
 
 ### Preview
+![]({{site.baseurl}}//Screenshot%20from%202022-10-23%2013-47-04.png)
 
-**Hero**
-![Hero](Screenshot from 2022-10-23 13-46-51.png)   
-
-![FeaturedProducts](Screenshot from 2022-10-23 13-47-04.png)   
-
-![Footer](Screenshot from 2022-10-23 13-47-15.png)  
-
-![Registration](Screenshot from 2022-10-23 13-47-39.png)     
 
 
 
