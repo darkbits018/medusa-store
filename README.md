@@ -5,11 +5,7 @@
 
 ### Cover Image
 
-The header of your GitHub repository must include a cover image that gives an overview of your submission.
-
-You can use [our template cover photos](https://www.figma.com/community/file/1157643826098186093) on Figma to create your own.
-
-For example, if your submission is revolved around building a storefront for Medusa with a frontend framework, you can create a cover image with the Medusa logo and the logo of your frontend framework.
+![CoverImage](galaxy-cover-template#2.jpg)
 
 ## About
 
@@ -23,10 +19,17 @@ Twitter : [united_emotion](https://twitter.com/united_emotion)
 
 ### Description
 A online store made using Medusa JS + Gatsby starter
-includes A hero section, featured products and footer.
+includes A hero section, featured products and footer.   
+
 _WORK IN PROGRESS_
 
 ### Preview
+
+**Hero**
+![Hero](Screenshot from 2022-10-23 13-46-51.png)
+![FeaturedProducts](Screenshot from 2022-10-23 13-47-04.png)
+![Footer](Screenshot from 2022-10-23 13-47-15.png)
+![Registration](Screenshot from 2022-10-23 13-47-39.png)
 
 
 
